@@ -27,7 +27,6 @@ SQL-Powered Analytics: Leverage SQL queries to extract actionable insights from 
 
 # Data Structure
 The system analyzes a comprehensive loan database with fields including:
-
 Loan identification and borrower information
 Loan characteristics (grade, purpose, term, etc.)
 Financial metrics (loan amount, interest rate, installment)
@@ -37,7 +36,6 @@ Risk assessment indicators
 
 # Business Value
 This system enables financial institutions to:
-
 Assess overall lending performance
 Identify trends in loan applications and funding
 Evaluate loan portfolio health through good vs. bad loan analysis
