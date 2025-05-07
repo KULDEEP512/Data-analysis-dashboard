@@ -4,9 +4,8 @@
 This project analyzes bank loan data to provide comprehensive insights into loan applications, funding, repayments, and risk assessment. The system processes and visualizes key performance indicators (KPIs) to help financial institutions make informed lending decisions and effectively manage their loan portfolios.
 Overview
 The Bank Loan Analysis and Reporting System extracts valuable information from loan data including:
-
-Total loan applications, funded amounts, and received payments
-Month-to-date (MTD) and previous-month-to-date (PMTD) comparisons
+- Total loan applications, funded amounts, and received payments
+- Month-to-date (MTD) and previous-month-to-date (PMTD) comparisons
 Average interest rates and debt-to-income ratios
 Good vs. bad loan performance metrics
 Loan status summaries
